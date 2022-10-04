@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @Diegospn
 -🥰I'm @CYBERXKID 
 -🥰 That's my second name
-- ⏱️ I will github joined 2022 my first account banned
+- ⏱️ I joined github 2022 my first account banned
 
 - 👀 I’m interested in bot Development
 
