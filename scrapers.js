@@ -659,7 +659,7 @@ function wattpad(query) {
           $("ul.list-group > li.list-group-item").each(function (c, d) {
             result = {
               status: 200,
-              author: "Xasena",
+              author: "Amarok",
               judul: $(b).find("> div.title").text(),
               dibaca: $(b)
                 .find(
@@ -707,7 +707,7 @@ function wattpaduser(query) {
           $("#profile-about > div > div ").each(function (c, d) {
             result = {
               status: 200,
-              author: "Xasena",
+              author: "Amarok",
               username: $(b).find("> div.badges > h1").text().trim(),
               works: $(b)
                 .find(
@@ -753,7 +753,7 @@ function webtoons(query) {
           function (a, b) {
             result = {
               status: 200,
-              author: "Xasena",
+              author: "Amarok",
               judul: $(b).find("> a > div > p.subj").text(),
               like: $(b).find("> a > div > p.grade_area > em").text(),
               creator: $(b).find("> a > div > p.author").text(),
@@ -782,7 +782,7 @@ function mangatoons(query) {
         ).each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             judul: $(b).find("> div.recommend-comics-title > span").text(),
             genre: $(b).find("> div.comics-type > span").text().trim(),
             link: "https://mangatoon.mobi" + $(b).find("> a").attr("href"),
@@ -806,7 +806,7 @@ function drakor(query) {
         $("#post > div ").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             judul: $(b)
               .find(
                 "> div.title.text-center.absolute.bottom-0.w-full.py-2.pb-4.px-3 > a > h2"
@@ -869,7 +869,7 @@ function stickersearch(query) {
             });
             result = {
               status: 200,
-              author: "Xasena",
+              author: "Amarok",
               title: $$("#intro > div > div > h1").text(),
               sticker_url: link,
             };
@@ -892,7 +892,7 @@ function listsurah() {
         });
         result = {
           status: 200,
-          author: "Xasena",
+          author: "Amarok",
           listsurah: listsurah,
         };
         resolve(result);
@@ -911,7 +911,7 @@ function surah(query) {
         $("body > main > article > ol > li").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             arab: $(b).find("> span.ayat").text(),
             latin: $(b).find("> span.bacaan").text(),
             translate: $(b).find("> span.arti").text(),
@@ -937,7 +937,7 @@ function tafsirsurah(query) {
         ) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             surah: $(b)
               .find("> div.panel-heading.panel-choco > div > div > a")
               .text(),
@@ -1028,7 +1028,7 @@ function kompasnews() {
         ).each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             berita: $(b).find("> div > div.article__box > h3").text(),
             upload_time: $(b)
               .find("> div > div.article__box > div.article__date")
@@ -1215,7 +1215,7 @@ async function mediafire(url) {
     .replace("\n", "")
     .replace(" ", "");
   let seplit = link.split("/");
-  let author = "Xasena";
+  let author = "Amarok";
   let nama = seplit[5];
   let mime = nama.split(".");
   mime = mime[1];
