@@ -101,6 +101,8 @@ module.exports = {
   character,
   manga,
   anime,
+  amarok,
+  diego,
   soundcloud,
   xnxxsearch,
   xnxxdl,
@@ -394,7 +396,7 @@ function anime(query) {
         $("#siteContainer > ul.cardDeck.cardGrid > li ").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             judul: $(b).find("> a > h3").text(),
             link:
               "https://www.anime-planet.com" + $(b).find("> a").attr("href"),
@@ -420,7 +422,7 @@ function manga(query) {
         $("#siteContainer > ul.cardDeck.cardGrid > li ").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             judul: $(b).find("> a > h3").text(),
             link:
               "https://www.anime-planet.com" + $(b).find("> a").attr("href"),
@@ -446,7 +448,7 @@ function character(query) {
         $("#siteContainer > table > tbody > tr").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             character: $(b).find("> td.tableCharInfo > a").text(),
             link:
               "https://www.anime-planet.com" +
@@ -477,7 +479,7 @@ function jadwalbola() {
         $("#main_mid_headline_sub_topic").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             jadwal: $(b)
               .find(" > div.main_mid_headline_topic > div > a")
               .text(),
@@ -512,7 +514,7 @@ function jadwaltv() {
         $("#tabeljadwaltv > tbody > tr ").each(function (a, b) {
           result = {
             status: 200,
-            author: "Xasena",
+            author: "Amarok",
             acara: $(b).find("> td:nth-child(2)").text(),
             channel: $(b).find("> td > a").text(),
             jam: $(b).find("> td.jfx").text(),
@@ -592,7 +594,7 @@ function pinterest(query) {
         var result = [];
         result = {
           status: 200,
-          author: "Xasena",
+          author: "Amarok",
           url: random.images.orig.url,
         };
         resolve(result);
@@ -626,7 +628,7 @@ function film(query) {
               const thumb = $(d).find("div > a > div > img").attr("src");
               const result = {
                 status: 200,
-                author: "Xasena",
+                author: "Amarok",
                 judul: judul,
                 quality: quality,
                 type: type,
