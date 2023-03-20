@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m @Diegospn
--🥰I'm @CYBERXKID 
+-🥰I'm @TOXIC CHAOS 
 -🥰 That's my second name
-- ⏱️ I joined github 2022 my first account banned
+- ⏱️ I joined github 2021 my first account banned
 
 - 👀 I’m interested in bot Development
 
