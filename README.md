@@ -1,18 +1,5 @@
 
 
-
-- 👋 Hi, I’m @Diegospn
--🥰I'm @TOXIC CHAOS 
--🥰 That's my second name
-- ⏱️ I joined github 2021 my first account banned
-
-- 👀 I’m interested in bot Development
-
-- 🌱 I’m currently learning coding
-
-- 💞️ I’m looking to collaborate on my bot repo
-👩‍💻Im a developer learner
-
 ![My card name](https://cardivo.vercel.app/api?name=DIEGOSON&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://te.legra.ph/file/cc38aa17d43d50974e178.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Diegoson&github=Diegoson&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
