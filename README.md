@@ -30,8 +30,6 @@ _______
 ----
 ## MY GITHUB STATUS 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Diegoson&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
-  </div>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
