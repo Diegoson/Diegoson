@@ -11,7 +11,7 @@
 
 ### ⚙️ &nbsp;GITHUB AMALYTICS
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DiegosonTech&hide=contribs,issues,stars&theme=tokyonight" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegosonTec&hide_title=true&hide_border=true&theme=tokyonight" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegosonTech&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 
 
 
