@@ -3,13 +3,13 @@
 ![My card name](https://cardivo.vercel.app/api?name=DIEGOSON&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://te.legra.ph/file/cc38aa17d43d50974e178.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Diegoson&github=Diegoson&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">HELLO ALIENS PPL:</h2>
  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Im+Diegoson+Fenandez;+Im+currently+17+years+old+lm+a+developer+from+South+Africa;Get+in+touch+with+me+on+WhatsApp+scroll+down+below+to+chat+with+me)]
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GITHUB AMALYTICS
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DiegosonTech&hide=contribs,issues,stars&theme=tokyonight" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegosonTec&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 
