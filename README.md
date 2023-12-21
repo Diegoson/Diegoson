@@ -1,3 +1,28 @@
+import java.util.Arrays;
+
+public class Diegoson extends ReadMe {
+    private String username;
+    private String location;
+    private String age;
+    private String[] languages;
+
+    public Diegoson() {
+        this.username = "Diegoson";
+        this.location = "South Africa";
+        this.age = "17";
+        this.languages = new String[]{"PHP", "TypeScript", "Javascript", "Node.js", "Html", "Java"};
+    }
+
+    public void about() {
+        System.out.println("Hi, I'm " + username + ". age " + age);
+    }
+
+    public static void main(String[] args) {
+        Diegoson me = new Diegoson();
+        me.about();
+    }
+}
+
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 
 ![My card name](https://cardivo.vercel.app/api?name=DIEGOSON&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://te.legra.ph/file/cc38aa17d43d50974e178.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Diegoson&github=Diegoson&twitter=&pattern=leaf&colorPattern=%23eaeaea)
