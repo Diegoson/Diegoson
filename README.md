@@ -44,7 +44,6 @@ $me->about();
 
 ###
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
