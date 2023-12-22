@@ -58,8 +58,8 @@ $me->about();
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DiegosonTech&repo=Aztec-MD&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Vorterx&repo=Aztec-MD&theme=dark)
 <h2 align="left">Connect Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="left">
-<a href="amdablack63@gmail.com"><img src="https://img.shields.io/badge/-amdablack63@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+![amdablack63@gmail.com](https://img.shields.io/badge/-amdablack63@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
 
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" 
