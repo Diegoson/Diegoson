@@ -55,8 +55,10 @@ $me->about();
 ###
 <h2> MY REPO STATUS <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DiegosonTech&repo=Aztec-MD&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Vorterx&repo=Aztec-MD&theme=dark)
+[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=DiegosonTech&repo=Aztec-MD&theme=radical)](https://github.com/DiegosonTech/Aztec-MD)
+
+[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Vorterx&repo=Aztec-MD&theme=radical)](https://github.com/Vorterx/Aztec-MD)
+
 <h2 align="left">Connect Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ![amdablack63@gmail.com](https://img.shields.io/badge/-amdablack63@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
