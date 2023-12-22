@@ -44,6 +44,8 @@ $me->about();
 
 ###
 
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=394240)](https://www.php.net/)
+
 ![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
