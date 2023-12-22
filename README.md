@@ -53,7 +53,6 @@ $me->about();
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&labelColor=394240&logoWidth=30&logoWidth=30&labelWidth=30&color=05122A&label=&logoWidth=40&logoWidth=40&labelWidth=40&color=05122A&label=)](https://www.w3.org/Style/CSS/)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ###
