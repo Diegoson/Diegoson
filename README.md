@@ -50,9 +50,11 @@ $me->about();
 
 [![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs&logoColor=white&labelColor=394240&logoWidth=30&logoWidth=30&labelWidth=30&color=05122A&label=&logoWidth=40&logoWidth=40&labelWidth=40&color=05122A&label=)](https://nodejs.org/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&labelColor=394240&logoWidth=30&logoWidth=30&labelWidth=30&color=05122A&label=&logoWidth=40&logoWidth=40&labelWidth=40&color=05122A&label=)](https://www.w3.org/Style/CSS/)
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ###
 <h2> MY REPO STATUS <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
