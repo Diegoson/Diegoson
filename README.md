@@ -7,7 +7,7 @@ console.log(introduc({
   country: "South Africa",
   age: 18,
   languages: ["Zulu", "English"],
-  status: "Noob☺️"
+  status: "Noob"
 }));
 
 ```
