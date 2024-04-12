@@ -41,9 +41,9 @@ console.log(introduc({
 ###
 <h2> MY REPO STATUS <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
-[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=DiegosonTech&repo=Aztec-MD&theme=radical)](https://github.com/DiegosonTech/Aztec-MD)
+[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=DiegosonTech&repo=Aztec-Qr&theme=radical)](https://github.com/DiegosonTech/Aztec-Qr)
 
-[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Vorterx&repo=Aztec-MD&theme=radical)](https://github.com/Vorterx/Aztec-MD)
+[![Aztec-MD GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Vorterx&repo=NovaBot&theme=radical)](https://github.com/Vorterx/NovaBot)
 
 <h2 align="left">Connect Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
