@@ -1,4 +1,4 @@
-```
+```javascript
 const introduc = ({ name, country, age, languages, status }) =>
   `Hi, I'm ${name} from ${country}, ${age} years old. I speak ${languages.join('/')} and I'm a ${status}`;
 
